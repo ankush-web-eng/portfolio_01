@@ -241,7 +241,8 @@ section {
   display: flex;
 }
 .about-pic {
-  border-radius: 2rem;
+  border-radius: 3rem;
+  /* width: ; */
 }
 .arrow {
   position: absolute;
@@ -263,7 +264,7 @@ section {
 }
 .section__pic-container {
   height: 400px;
-  width: 400px;
+  width: 800px;
   margin: auto 0;
 }
 #experience {

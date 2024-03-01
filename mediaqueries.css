@@ -52,6 +52,9 @@
     height: 83vh;
     margin-bottom: 0;
   }
+  #about{
+    margin-top: 5rem;
+  }
   article {
     font-size: 1rem;
   }
@@ -83,6 +86,7 @@
   }
   .section__pic-container{
     width: auto;
+    margin-top: auto;
     height: 46vw;
     justify-content: center;
   }
@@ -97,5 +101,11 @@
   }
   .project-btn-2{
     display: none;
+  }
+  .hidhh{
+    display: none;
+  }
+  .yuphe{
+    margin-top: 2rem;
   }
 }
