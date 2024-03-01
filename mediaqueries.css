@@ -52,9 +52,9 @@
     height: 83vh;
     margin-bottom: 0;
   }
-  #about{
+  /* #about{
     margin-top: 5rem;
-  }
+  } */
   article {
     font-size: 1rem;
   }
@@ -102,10 +102,10 @@
   .project-btn-2{
     display: none;
   }
-  .hidhh{
+  /* .hidhh{
     display: none;
   }
   .yuphe{
     margin-top: 2rem;
-  }
+  } */
 }
